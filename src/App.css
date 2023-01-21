@@ -1,0 +1,313 @@
+.App {
+  text-align: center;
+  margin-top: 180px;
+  margin-bottom: 181px;
+  width: 650px;
+  height: auto;
+  border: solid 1px blue;
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.753);
+  box-shadow: 0 0 20px rgba(1, 1, 255, 0.644);
+}
+
+.App:hover {
+  border: solid 1.5px blue;
+}
+
+.App_link-color__color-toggle {
+  color: rgba(0, 0, 255, 0.74);
+}
+
+.App_link-color__color-toggle:hover {
+  color: white;
+}
+
+.App_link-margin {
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+
+.App_link__margin-top-20px {
+  margin-top: 20px;
+}
+
+.App_link__margin-top-5px {
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+
+/* Section style for componets */
+
+.coleredTitle-wrapper-padding {
+  padding: 0px 10px 10px 10px;
+}
+
+.main-hr-style {
+  margin-top: 30px;
+  height: 1px;
+  border-radius: 20px;
+  box-shadow: 0 -2px 20px 3px blue;
+}
+
+.coleredTitle_text-color__black {
+  color: black;
+}
+
+.coleredTitle_text-color__red {
+  color: red;
+}
+
+.coleredTitle_text-color__green {
+  color: green;
+}
+
+.app_coloredTitle_button-color__black {
+  margin-left: 5px;
+  margin-right: 5px;
+  width: 70px;
+  border: solid 3px rgba(73, 63, 63, 0.267);
+  border-radius: 5px;
+  background: black;
+  font-size: 20px;
+  color: white;
+}
+
+.app_coloredTitle_button-color__black:hover {
+  box-shadow: 0 0 20px white;
+}
+
+.app_coloredTitle_button-color__red {
+  margin-right: 5px;
+  width: 70px;
+  border: solid 3px rgba(143, 19, 19, 0.603);
+  border-radius: 5px;
+  font-size: 20px;
+  color: white;
+  background: rgb(255, 0, 0);
+}
+
+.app_coloredTitle_button-color__red:hover {
+  box-shadow: 0 0 20px red;
+}
+
+.app_coloredTitle_button-color__green {
+  width: 70px;
+  border: solid 3px rgba(43, 66, 43, 0.37);
+  border-radius: 5px;
+  font-size: 20px;
+  color: white;
+  background: green;
+}
+
+.app_coloredTitle_button-color__green:hover {
+  box-shadow: 0 0 20px green;
+}
+
+.coleredTitle_text-style {
+  text-align: left;
+  padding: 0px 10px 10px 10px;
+  color: white;
+}
+
+.DZ_title-style {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+.DZ_list-style {
+  text-align: left;
+  color: white;
+}
+
+.DZ_Link-color__white {
+  color: white;
+}
+
+.DZ_Link-color__white:hover {
+  color: blue;
+}
+
+.inputSubmit_input-wrapper-style {
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top: solid 1px blue;
+  border-bottom: solid 1px blue;
+  border-radius: 50px;
+  color: white;
+}
+
+.inputSubmit_input-wrapper-style:hover {
+  border-top: solid 1px green;
+  border-bottom: solid 1px green;
+  box-shadow: 0 0 20px green;
+}
+
+.inputSubmit_label-input-style {
+  margin-right: 5px;
+  color: blue;
+}
+
+.inputSubmit_label-input-style:hover {
+  color: green;
+}
+
+.inputSubmit-wrapper {
+  text-align: left;
+  padding: 0px 15px 15px 15px;
+  color: white;
+}
+
+.listCC-wrapper {
+  text-align: left;
+  padding: 0px 15px 15px 15px;
+  color: white;
+}
+
+.listCC_title-style {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+.listCC_list-item {
+  text-align: left;
+  padding: 0px 10px 10px 18px;
+}
+
+.listCC_list-item-style {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-bottom: solid 1px blue;
+}
+
+.listFC-wrapper {
+  text-align: left;
+  padding: 0px 15px 15px 15px;
+  color: white;
+}
+
+.listFC_title-style {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+.listFC_list-item {
+  text-align: left;
+  padding: 0px 10px 10px 18px;
+}
+
+.listFC_list-item-style {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-bottom: solid 1px blue;
+}
+
+.titleCC-wrapper {
+  text-align: left;
+  padding: 0px 15px 15px 15px;
+  color: white;
+}
+
+.titleCC_title-style {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+.titleFC_wrapper {
+  text-align: left;
+  padding: 0px 15px 15px 15px;
+  color: white;
+}
+
+.titleFC_title-style {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+/* Section style for Todo */
+
+.todoList-wrapper {
+  text-align: left;
+  padding: 0px 10px 10px 10px;
+  color: white;
+}
+
+.todoList_title {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+.todo_addTodo-input-style {
+  width: 350px;
+  margin-left: 60px;
+  border: solid 1.5px blue;
+}
+
+.todo_addTodo-input-style:hover {
+  border: solid 1.5px green;
+  box-shadow: 0 3px 20px green;
+}
+
+.todo_editTodoForm-input-style {
+  width: 350px;
+  margin-left: 60px;
+  border: solid 1.5px blue;
+}
+
+.todo_editTodoForm-input-style:hover {
+  border: solid 1.5px green;
+  box-shadow: 0 3px 20px green;
+}
+
+.todo_taskDiscription_Button__justify-content-center {
+  display: flex;
+  justify-content: center;
+}
+
+.todo_todoItem_itemList-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 5px;
+  padding-top: 3px;
+  margin: 20px 20px 20px 20px;
+  border-bottom: solid 1px blue;
+  border-top: solid 1px blue;
+  border-radius: 10px;
+}
+
+.todo_todoItem_itemList-wrapper:hover {
+  border-bottom: solid 1px green;
+  border-top: solid 1px green;
+}
+
+.todo_todoItem_done {
+  text-decoration: line-through red;
+}
+
+.todo_todoItem_done__border-red {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 5px;
+  padding-top: 3px;
+  margin: 20px 20px 20px 20px;
+  border-radius: 10px;
+  border-top: solid 1px red;
+  border-bottom: solid 1px red;
+}
+
+.todo_todoItem_Buttons__padding-bottom-4px {
+  padding-bottom: 4px;
+}
